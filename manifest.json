@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+
+  "name": "Refactor Outline",
+  "description": "This extension will add an outline to any .rf-* classes",
+  "version": "1.0",
+  "browser_action": {
+   "default_icon": "logo.png",
+   "default_popup": "popup.html"
+  },
+  "permissions": [
+   "activeTab"
+   ]
+}
